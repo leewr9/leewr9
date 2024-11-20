@@ -40,7 +40,7 @@
   <a href="https://learn.microsoft.com/cpp/"><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/></a>
   <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/></a>
   <a href="https://www.ruby-lang.org/"><img src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white"/></a>
-  <a href="https://www.unrealengine.com/"><img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unrealengine&logoColor=black"/></a>
+  <a href="https://www.unrealengine.com/"><img src="https://img.shields.io/badge/Unity-DDDDDD?style=flat-square&logo=unrealengine&logoColor=black"/></a>
   <a href="https://unity.com/"><img src="https://img.shields.io/badge/Unreal-0E1128?style=flat-square&logo=unrealengine&logoColor=white"/></a>
   <br/>
   <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/></a>
