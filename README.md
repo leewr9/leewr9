@@ -21,7 +21,7 @@
   <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a>
   <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
   <br/>
-  <a href="https://learn.microsoft.com/dotnet/csharp/"><img src="https://img.shields.io/badge/CSharp-378BBA?style=flat-square&logo=cplusplus&logoColor=white"/></a>
+  <a href="https://learn.microsoft.com/dotnet/csharp/"><img src="https://img.shields.io/badge/C＃-378BBA?style=flat-square&logo=cplusplus&logoColor=white"/></a>
   <a href="https://learn.microsoft.com/dotnet/"><img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/></a>
 </div>
 
