@@ -1,19 +1,10 @@
 ## Hi there 👋
-
 <div>
   <a href="https://github.com/leewr9"><img align="center" src="https://github-readme-stats.vercel.app/api?username=leewr9&theme=transparent&show_icons=true&include_all_commits=true&hide_border=true&layout=compact"/></a>
   <a href="https://github.com/leewr9"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leewr9&theme=transparent&hide_border=true&layout=compact"/></a>
 </div>
 
-##
-
-<div>
-  <a href="https://github.com/leewr9/leewr9.resume"><img src="https://github-readme-stats.vercel.app/api/pin/?username=leewr9&repo=leewr9.resume&theme=transparent&layout=compact&hide_border=true"/></a> 
-  <a href="https://github.com/leewr9/leewr9.github.io"><img src="https://github-readme-stats.vercel.app/api/pin/?username=leewr9&repo=leewr9.github.io&theme=transparent&layout=compact&hide_border=true"/></a>
-</div>
-
-##
-
+## Skill
 ### Best
 <div>
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
