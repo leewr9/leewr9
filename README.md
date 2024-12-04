@@ -4,16 +4,13 @@
   <a href="https://github.com/leewr9"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leewr9&theme=transparent&hide_border=true&layout=compact"/></a>
 </div>
 
-## Skill
+##
 ### Best
 <div>
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
-  <a href="https://mariadb.org/"><img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white"/></a>
-  <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a>
-  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
-  <br/>
   <a href="https://learn.microsoft.com/dotnet/csharp/"><img src="https://img.shields.io/badge/C＃-378BBA?style=flat-square&logo=cplusplus&logoColor=white"/></a>
   <a href="https://learn.microsoft.com/dotnet/"><img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/></a>
+  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
 </div>
 
 ### Good
@@ -23,6 +20,10 @@
   <a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-344CB7?style=flat-square&logo=coffeescript&logoColor=white"/></a>
   <a href="https://www.jenkins.io/"><img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/></a>
   <a href="https://kernel.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white"/></a>
+  <br/>
+  <a href="https://www.sqlite.org/"><img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/></a>
+  <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a>
+  <a href="https://mariadb.org/"><img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white"/></a>
 </div>
 
 ### Used
@@ -41,6 +42,9 @@
   <a href="https://kubernetes.io/"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/></a>
   <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></a>
   <a href="https://spark.apache.org/"><img src="https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/></a>
+  <br/>
+  <a href="https://www.djangoproject.com/"><img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/></a>
+  <a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a>
 </div>
 
 <!--
