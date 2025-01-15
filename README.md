@@ -36,6 +36,9 @@
   <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/></a>
   <a href="https://cloud.google.com/"><img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/></a>
   <a href="https://kernel.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/></a>
+  <a href="https://www.djangoproject.com/"><img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/></a>
+  <a href="https://gunicorn.org/"><img src="https://img.shields.io/badge/Gunicorn-499848?style=flat-square&logo=gunicorn&logoColor=white"/></a>
+  <a href="https://nginx.org/"><img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white"/></a>
   <a href="https://superset.apache.org/"><img src="https://img.shields.io/badge/Superset-20A6C9?style=flat-square&logo=apachesuperset&logoColor=white"/></a>
   <a href="https://redash.io/"><img src="https://img.shields.io/badge/Redash-FF7964?style=flat-square&logo=redash&logoColor=white"/></a>
 </div>
