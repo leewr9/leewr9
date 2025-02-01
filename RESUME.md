@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/leewr9/leewr9/refs/heads/master/main.png" />
+</div>
+
 ## Profile
 - Name: Wooram Lee (Rooam Lee)
 - Birth: 1995.04.13
