@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/leewr9/leewr9/refs/heads/master/profile.png" />
+  <img style="width: 50%;" src="https://raw.githubusercontent.com/leewr9/leewr9/refs/heads/master/profile.png" />
 </div>
 
 ### Profile
