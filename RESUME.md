@@ -14,5 +14,5 @@
 - C#/.NET Programming
 
 ### Document
-- [Resume]([https://leewr9.github.io/docs/resume.pdf](https://docs.google.com/presentation/d/1PrtLOAxm-Zfi7KPPE3ggEoK948bXtWd-8kOCQwPHcB4/edit?usp=sharing))
-- [Portfolio]([https://leewr9.github.io/docs/portfolio.pdf](https://docs.google.com/presentation/d/1mKVYtwkyKJBZziwEPBnfBGR9iFGQyaBG2k1-_dSL1WE/edit?usp=sharing))
+- [Resume]([https://leewr9.github.io/docs/resume.pdf](https://docs.google.com/presentation/d/1PrtLOAxm-Zfi7KPPE3ggEoK948bXtWd-8kOCQwPHcB4/edit?usp=sharing)
+- [Portfolio]([https://leewr9.github.io/docs/portfolio.pdf](https://docs.google.com/presentation/d/1mKVYtwkyKJBZziwEPBnfBGR9iFGQyaBG2k1-_dSL1WE/edit?usp=sharing)
