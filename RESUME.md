@@ -13,8 +13,6 @@
 - Python Programming
 - C#/.NET Programming
 
-### Docs
-- [Resume](https://leewr9.github.io/docs/resume.pdf)
-- [Portfolio](https://leewr9.github.io/docs/portfolio.pdf)
-- [Career Description](https://leewr9.github.io/docs/career.pdf)
-- [Self-Introduction](https://leewr9.github.io/docs/introduction.pdf)
+### Document
+- [Resume]([https://leewr9.github.io/docs/resume.pdf](https://docs.google.com/presentation/d/1PrtLOAxm-Zfi7KPPE3ggEoK948bXtWd-8kOCQwPHcB4/edit?usp=sharing))
+- [Portfolio]([https://leewr9.github.io/docs/portfolio.pdf](https://docs.google.com/presentation/d/1mKVYtwkyKJBZziwEPBnfBGR9iFGQyaBG2k1-_dSL1WE/edit?usp=sharing))
