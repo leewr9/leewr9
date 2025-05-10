@@ -8,3 +8,6 @@
 - Sofrware/Automation Engineer at [Wellbia.com Co.,Ltd](https://www.wellbia.com/) (2021.01 - 2024.06)
 
 For more details, please refer to [here](https://github.com/leewr9/leewr9/blob/master/RESUME.md).
+
+![stats](https://github-readme-stats.vercel.app/api?username=leewr9&show_icons=true&theme=transparent&layout=compact&hide_border=true)
+![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=leewr9&show_icons=true&theme=transparent&layout=compact&hide_border=true)
