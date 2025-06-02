@@ -9,9 +9,10 @@
 - E-Mail: [leewr9@naver.com](mailto:leewr9@naver.com)
 
 ### Skill
+- Backend Engineering
 - Data Engineering
-- Python Programming
-- C#/.NET Programming
+- DevOps Engineering
+- Software Engineering
 
 ### Document
 - [Resume](https://leewr9.github.io/docs/resume/data_engineer)
