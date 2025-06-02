@@ -5,7 +5,7 @@
 [![](https://img.shields.io/badge/Instagram-black?logo=instagram&logoColor=white)](https://www.instagram.com/rooam_lee)	
 
 #### Career
-- Software & Automation Engineer at [Wellbia.com](https://www.wellbia.com/) (2021.01 - 2024.06)
+- Platform Engineer at [Wellbia.com](https://www.wellbia.com/) (2021.01 - 2024.06)
 
 For more details, please refer to [here](https://github.com/leewr9/leewr9/blob/master/RESUME.md).
 
