@@ -9,9 +9,9 @@
 - E-Mail: [leewr9@naver.com](mailto:leewr9@naver.com)
 
 ### Skill
-- Backend Engineering
-- Data Engineering
-- DevOps Engineering
+- Platform Engineering  
+- Data Engineering  
+- DevOps Engineering  
 - Software Engineering
 
 ### Document
