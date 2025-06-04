@@ -14,6 +14,14 @@
 - DevOps Engineering  
 - Software Engineering
 
+### Career
+- Platform Engineer at [Wellbia.com](https://www.wellbia.com/) (2021.01 - 2024.06)
+
 ### Document
-- [Resume](https://leewr9.github.io/docs/resume/data_engineer)
-- [Portfolio](https://leewr9.github.io/docs/portfolio/data_engineer)
+- [Resume](https://leewr9.github.io/docs/resume)
+- [Portfolio](https://leewr9.github.io/docs/portfolio)
+
+### Project
+- [KBO Data Portal](https://leewr9.github.io/docs/projects/kbo_data_portal)
+- [WebToon Grepp](https://leewr9.github.io/docs/projects/webtoon_grepp)
+  
