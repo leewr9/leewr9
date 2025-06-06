@@ -9,10 +9,11 @@
 - E-Mail: [leewr9@naver.com](mailto:leewr9@naver.com)
 
 ### Skill
-- Platform Engineering  
-- Data Engineering  
-- DevOps Engineering  
-- Software Engineering
+- Backend Development
+- Web Crawling
+- Data Engineering
+- Data Analysis
+- DevOps Engineering
 
 ### Career
 - Platform Engineer at [Wellbia.com](https://www.wellbia.com/) (2021.01 - 2024.06)
