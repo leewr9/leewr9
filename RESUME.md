@@ -10,7 +10,6 @@
 
 ### Skill
 - Backend Development
-- Web Crawling
 - Data Engineering
 - Data Analysis
 - DevOps Engineering
