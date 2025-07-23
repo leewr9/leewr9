@@ -9,9 +9,14 @@
 - E-Mail: [leewr9@naver.com](mailto:leewr9@naver.com)
 
 ### Skill
-- Backend Development
+Backend Development
+
+Data Engineering
+
+DevOps Engineering
+- Workflow Automation
 - Data Engineering
-- Data Analysis
+- Backend Development
 - DevOps Engineering
 
 ### Career
