@@ -24,4 +24,4 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}  
         GITHUB_NAME: ${{ secrets.GH_NAME }}  
       run: |
-        python scripts/sync_follow.py
+        python script/sync_follow.py
