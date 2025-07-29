@@ -16,6 +16,7 @@ def fetch_followers():
     while True:
         res = requests.get(f"{url}?per_page=100&page={page}", headers=HEADERS)
         data = res.json()
+        print(data)
         if not data:
             break
         followers.extend(user["login"] for user in data)
@@ -30,6 +31,7 @@ def fetch_following():
     while True:
         res = requests.get(f"{url}?per_page=100&page={page}", headers=HEADERS)
         data = res.json()
+        print(data)
         if not data:
             break
         followings.extend(user["login"] for user in data if user.get("type") == "User")
