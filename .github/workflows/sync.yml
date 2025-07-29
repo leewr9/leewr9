@@ -21,7 +21,7 @@ jobs:
         pip install requests
     - name: Run sync script
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  
-        GITHUB_NAME: leewr9
+        GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}  
+        GITHUB_NAME: ${{ secrets.GH_NAME }}  
       run: |
         python scripts/sync_follow.py
