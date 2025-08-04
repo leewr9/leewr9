@@ -38,7 +38,7 @@ def fetch_following():
         others.extend(user["login"] for user in data if user.get("type") != "User")
         page += 1
         
-    print(f"Total following users: {len(users}")
+    print(f"Total following users: {len(users)}")
     print(f"Total following organizations: {len(others)}")
     print(f"Total following: {len(users) + len(others)}")
     return users
