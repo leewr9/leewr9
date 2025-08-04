@@ -20,20 +20,27 @@ def fetch_followers():
             break
         followers.extend(user["login"] for user in data)
         page += 1
+
+    print(f"Total followers: {len(followers)}")
     return followers
 
 
 def fetch_following():
     url = "https://api.github.com/user/following"
-    followings = []
+    users, others = [], []
     page = 1
     while True:
         res = requests.get(f"{url}?per_page=100&page={page}", headers=HEADERS)
         data = res.json()
         if not data:
             break
-        followings.extend(user["login"] for user in data if user.get("type") == "User")
+        users.extend(user["login"] for user in data if user.get("type") == "User")
+        others.extend(user["login"] for user in data if user.get("type") != "User")
         page += 1
+        
+    print(f"Total following users: {len(users}")
+    print(f"Total following organizations: {len(others)}")
+    print(f"Total following: {len(users) + len(others)}")
     return followings
 
 
