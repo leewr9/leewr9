@@ -40,7 +40,7 @@ def fetch_following():
         
     print(f"Total following users: {len(users)}")
     print(f"Total following organizations: {len(others)}")
-    print(f"Total following: {len(users) + len(others)}")
+    print(f"Followed organization: {'\nFollowed organization: '.join(others)}")
     return users
 
 
