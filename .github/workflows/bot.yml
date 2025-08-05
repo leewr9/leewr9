@@ -1,4 +1,4 @@
-name: Follow Sync
+name: GitHub Engagement Bot
 
 on:
   schedule:
@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
   
 jobs:
-  follow-sync:
+  engagement-bot:
 
     runs-on: ubuntu-latest
 
@@ -24,4 +24,4 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}  
         GITHUB_NAME: ${{ secrets.GH_NAME }}  
       run: |
-        python script/sync_follow.py
+        python script/engagement_bot.py
