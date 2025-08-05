@@ -195,23 +195,23 @@ def unstar_repository(owner: str, repo_name: str):
 def main():
     followers = set(fetch_followers())
     following = set(fetch_following())
-    stars = fetch_starred_repositories()
 
     for user in followers:
         follow_user(user)
-        if user not in stars:
-            repo_name = fetch_top_repository(user)
-            if repo_name:
-                star_repository(user, repo_name)
-            time.sleep(WAIT)
+        repo_name = fetch_top_repository(user)
+        if repo_name:
+            star_repository(user, repo_name)
+        time.sleep(WAIT)
 
     to_unfollow = list(following - followers)
     for username in to_unfollow:
         unfollow_user(username)
-        if user in stars:
-            unstar_repository(user, stars[user])
-            time.sleep(WAIT)
 
+    stars = fetch_starred_repositories()
+    for owner, repo_name in stars.items():
+        if owner not in followers:
+            unstar_repository(owner, repo_name)
+            time.sleep(WAIT)
 
 if __name__ == "__main__":
     main()
