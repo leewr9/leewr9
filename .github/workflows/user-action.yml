@@ -1,4 +1,4 @@
-name: GitHub Engagement Bot
+name: User Action
 
 on:
   schedule:
@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  engagement-bot:
+  action:
     runs-on: ubuntu-latest
 
     steps:
@@ -23,4 +23,4 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
           GITHUB_NAME: ${{ secrets.GH_NAME }}
         run: |
-          python script/engagement_bot.py
+          python script/user_action_handler.py
