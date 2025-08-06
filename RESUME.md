@@ -24,8 +24,20 @@
 
 - [Resume](https://leewr9.github.io/docs/resume)
 - [Portfolio](https://leewr9.github.io/docs/portfolio)
+- [Cover Letter](https://leewr9.github.io/docs/cover-letter)
 
 ### Project
 
-- [KBO Data Portal](https://leewr9.github.io/docs/projects/kbo_data_portal)
-- [WebToon Grepp](https://leewr9.github.io/docs/projects/webtoon_grepp)
+#### Ongoing
+
+- [PRMate](https://leewr9.github.io/docs/projects/prmate) _2025.07 - present_
+- [KBO 데이터 포털](https://leewr9.github.io/docs/projects/kbo-data-portal) _2025.03 - present_
+
+#### Maintained
+
+- [AutoLottery](https://leewr9.github.io/docs/projects/atlottery) _2025.07 - 2025.07_
+
+#### Completed
+
+- [WebToon Grepp](https://leewr9.github.io/docs/projects/webtoon-grepp) _2025.02 - 2025.03_
+- [Exchangify](https://leewr9.github.io/docs/projects/exchangify) _2025.01 - 2025.01_
