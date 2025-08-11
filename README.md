@@ -5,6 +5,15 @@
 [![](https://img.shields.io/badge/Twitter-black?logo=x&logoColor=white)](https://x.com/rooam_lee)
 [![](https://img.shields.io/badge/Instagram-black?logo=instagram&logoColor=white)](https://www.instagram.com/rooam_lee)
 
+#### Skill
+
+- Languages: _Python, Shell, JavaScript, C#_
+- Workflow Orchestration: _Airflow, Jenkins, GitHub Actions, n8n_
+- Data Engineering: _Spark, Kafka, dbt, PostgreSQL, MongoDB_
+- Backend Development: _Flask, Django, Gunicorn, NGINX_
+- DevOps & Cloud: _AWS, GCP, Docker, Docker Compose, Elasticsearch, Linux_
+- Tools & Libraries: _Git, LangChain, scikit-learn, pytest, PySide_
+
 #### Career
 
 - Platform Engineer at [Wellbia.com](https://www.wellbia.com/) (2021.01 - 2024.06)
