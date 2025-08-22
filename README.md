@@ -16,7 +16,7 @@
 
 #### Career
 
-- Platform Engineer at [Wellbia.com](https://www.wellbia.com/) (2021.01 - 2024.06)
+- Automation Engineer at [Wellbia.com](https://www.wellbia.com/) (2021.01 - 2024.06)
 
 For more details, please refer to [here](https://leewr9.github.io/docs/).
 
