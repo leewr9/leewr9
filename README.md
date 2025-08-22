@@ -10,7 +10,7 @@
 - Languages: _Python, Shell, JavaScript, C#_
 - Workflow Orchestration: _Airflow, Jenkins, GitHub Actions, n8n_
 - Backend Development: _Flask, Django, Gunicorn, NGINX_
-- Data Engineering: _Spark, Kafka, dbt, Elasticsearch, PostgreSQL, MongoDB_
+- Data Engineering: _Spark, Kafka, dbt, PostgreSQL, MongoDB, Elasticsearch_
 - Cloud & Container: _AWS, GCP, Docker, Docker Compose, Linux_
 - Tools & Libraries: _Git, LangChain, scikit-learn, pytest, PySide_
 
