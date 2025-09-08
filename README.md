@@ -17,6 +17,7 @@
 #### Career
 
 - Automation Engineer at [Wellbia.com](https://www.wellbia.com/) (2021.01 - 2024.06)
+- Full-stack Developer at [Awesome School](https://awesome-school.net/) (2025.09 - present)
 
 For more details, please refer to [here](https://leewr9.github.io/docs/).
 
