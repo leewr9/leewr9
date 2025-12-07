@@ -20,6 +20,3 @@
 - Full-stack Developer at [Awesome School](https://awesome-school.net/) (2025.09 - present)
 
 For more details, please refer to [here](https://leewr9.github.io/docs/).
-
-![stats](https://github-readme-stats.vercel.app/api?username=leewr9&show_icons=true&theme=transparent&rank_icon=github&layout=compact&hide_border=true)
-![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=leewr9&show_icons=true&theme=transparent&layout=compact&hide_border=true)
